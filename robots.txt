@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iatertho.github.io/sitemap.html.gz
+Sitemap: https://iatertho.github.io/app/sitemap.html.gz
+Sitemap: https://iatertho.github.io/assets/sitemap.html.gz
+Sitemap: https://iatertho.github.io/css/sitemap.html.gz
+Sitemap: https://iatertho.github.io/data/sitemap.html.gz
+Sitemap: https://iatertho.github.io/includes/sitemap.html.gz
+Sitemap: https://iatertho.github.io/item/sitemap.html.gz
+Sitemap: https://iatertho.github.io/src/sitemap.html.gz
